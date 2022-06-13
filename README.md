@@ -1,1 +1,1 @@
-# 7
+src/KKManager.Core/KKManager.Core.csproj
